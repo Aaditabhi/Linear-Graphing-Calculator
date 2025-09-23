@@ -1,6 +1,4 @@
-[Link to Code.org Studio](https://studio.code.org/projects/applab/zyffN-ngNzarKnWpCVcwyKy8vwZWMS4inPnjrQhjXs4)
-
-# Linear Graphing Calculator  
+# Linear Graphing Calculator,   [Link to Code.org Studio](https://studio.code.org/projects/applab/zyffN-ngNzarKnWpCVcwyKy8vwZWMS4inPnjrQhjXs4)
 
 ## Overview  
 This project is a graphing calculator built in JavaScript using Code.org’s canvas library. It plots linear equations from slope–intercept form as well as individual coordinate points, providing a visual representation of algebraic concepts.  
