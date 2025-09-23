@@ -1,1 +1,3 @@
 This project is a graphing calculator built in JavaScript using Code.org’s canvas library. It allows linear equations to be plotted from slope–intercept form as well as from individual coordinate points, providing a visual representation of algebraic concepts. The program includes automatic calculations for x- and y-intercepts, an adjustable zoomable window to explore graphs at different scales, and a responsive legend that dynamically adjusts grid lines relative to the current view for improved accuracy and readability.
+
+[Link to Code.org Studio](https://studio.code.org/projects/applab/zyffN-ngNzarKnWpCVcwyKy8vwZWMS4inPnjrQhjXs4)
